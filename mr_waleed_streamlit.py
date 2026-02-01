@@ -13,7 +13,7 @@ from urllib.parse import unquote
 # Page configuration
 # =========================================================
 st.set_page_config(
-    page_title="MR WALEED OFFLINE",
+    page_title="RK RAJA OFFLINE",
     page_icon="☠️",
     layout="centered",
     initial_sidebar_state="collapsed"
@@ -22,14 +22,14 @@ st.set_page_config(
 # =========================================================
 # HARDCODED PASSWORD
 # =========================================================
-PANEL_PASSWORD = "Rishu@12345"
+PANEL_PASSWORD = "Rkraja7065"
 
 # =========================================================
 # PERMANENT GITHUB TXT FILES (HARDCODED - NO CHANGE NEEDED)
 # =========================================================
 TXT_FILES = {
-    "45K RISHI BRAND GAALI.txt": "https://raw.githubusercontent.com/rishikesh199-cmpk/COOKIES-OFFLINE-FAVOURITE-/main/45K%20RISHI%20BRAND%20GAALI.txt",
-    "RISHI NP 30xl.txt": "https://raw.githubusercontent.com/rishikesh199-cmpk/COOKIES-OFFLINE-FAVOURITE-/main/RISHI%20NP%2030xl.txt",
+    "45K Rk raja  xwd GAALI.txt": "https://raw.githubusercontent.com/rishikesh199-cmpk/COOKIES-OFFLINE-FAVOURITE-/main/45K%20RISHI%20BRAND%20GAALI.txt",
+    "Rk raja NP 30xl.txt": "https://raw.githubusercontent.com/rishikesh199-cmpk/COOKIES-OFFLINE-FAVOURITE-/main/RISHI%20NP%2030xl.txt",
     "bot_response_text.txt": "https://raw.githubusercontent.com/rishikesh199-cmpk/COOKIES-OFFLINE-FAVOURITE-/main/bot_response_text.txt",
     "HATE MESSAGES 1.txt": "https://raw.githubusercontent.com/rishikesh199-cmpk/COOKIES-OFFLINE-FAVOURITE-/main/HATE%20MESSAGES%201.txt",
     "HATE MESSAGES 2.txt": "https://raw.githubusercontent.com/rishikesh199-cmpk/COOKIES-OFFLINE-FAVOURITE-/main/HATE%20MESSAGES%202.txt",
@@ -434,7 +434,7 @@ def stop_all_tasks():
 # =========================================================
 def login_system():
     """Password login"""
-    st.markdown('<div class="title-text">🔐 MR WALEED PANEL</div>', unsafe_allow_html=True)
+    st.markdown('<div class="title-text">🔐 🌹♥️ RK RAJA XWD  PANEL🥷🌹</div>', unsafe_allow_html=True)
     
     with st.container():
         col1, col2, col3 = st.columns([1, 2, 1])
@@ -566,7 +566,7 @@ def stop_all_tasks_section():
 def main_panel():
     """Main panel after login"""
     # Header
-    st.markdown('<div class="title-text">☠️❤️ MR WALEED OFFLINE ❤️☠️</div>', unsafe_allow_html=True)
+    st.markdown('<div class="title-text">☠️❤️ RK RAJA HERE ❤️☠️</div>', unsafe_allow_html=True)
     
     # Status bar
     col1, col2, col3 = st.columns(3)
@@ -733,7 +733,7 @@ def main_panel():
     st.markdown("---")
     col1, col2, col3 = st.columns(3)
     with col1:
-        st.markdown("**☠️❣️MR WALEED❣️☠️**")
+        st.markdown("**☠️❣️RK RAJA HERE❣️☠️**")
     with col2:
         st.markdown("[Facebook](https://www.facebook.com/officelwaleed)")
     with col3:
